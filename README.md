@@ -7,7 +7,7 @@
 - [x] [绪论](chapters/01-introduction.md)
 - [x] [科学基础（材料合成与制备的驱动力）](chapters/02-scientific-foundations.md)
 - [x] [技术方法与原理（基础物理化学过程）](chapters/03-technical-methods.md)
-- [ ] 薄膜生长
+- [x] [薄膜沉积技术](chapters/04-thin-film-deposition.md)
 - [ ] 晶体生长
 - [ ] OA定向附着专题
 
